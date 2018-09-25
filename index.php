@@ -32,7 +32,7 @@
             </ol>
             <div class="carousel-inner" role="listbox">
               <div class="carousel-item active">
-                <img class="d-block w-100 img-fluid" src="assets/img/dijkveld.PNG" alt="First slide">
+                <img class="d-block w-100 img-fluid" src="assets/img/hrlogo.jpg" alt="First slide">
                 <div class="carousel-caption d-none d-md-block">
                   <h5>Laurens Dijkveld</h5>
                   <p>Ons huidige project</p>
