@@ -1,0 +1,16 @@
+.blueFooter{
+  background-color: #2196F3;
+  color: white;
+}
+
+.blueFooter a{
+  color: white;
+}
+
+.footer-copyright{
+  background-color: #0a6fc2;
+}
+
+.flex-center{
+  justify-content: center;
+}

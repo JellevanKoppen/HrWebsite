@@ -1,0 +1,107 @@
+html,body{
+  height: 100%;
+}
+
+.form-control-login{
+  background: white;
+}
+.profileHeader{
+  height: 75%;
+  margin-top: 37.5px;
+}
+
+.wrapper{
+  min-height: 100%;
+}
+
+.headerText{
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#stickybar{
+  z-index: 1;
+}
+
+.sticky{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  -webkit-box-shadow: 0px 8px 20px 0px #000000;
+  -moz-box-shadow: 0px 8px 20px 0px #000000;
+  box-shadow: 0px 8px 20px 0px rgba(125, 125, 125, 0.8);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.sticky + .container {
+  margin-top: 80px;
+}
+
+.headerDiv{
+  width: 100%;
+  height: 300px;
+  display: table;
+  background-image: url("../assets/img/az-subtle.png");
+  background-repeat: repeat;
+  background-color: white;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.longAssDiv{
+  height: 2000px;
+}
+
+.streep{
+  width: 25%;
+  height: 5px;
+  background-color: #2196F3;
+  margin-top: 147.5px;
+  border-radius: 10px;
+}
+
+.hide-sm{
+  opacity: 0;
+  transition: opacity ease-in-out 1s;
+}
+
+.error-message {
+	padding: 7px 10px;
+  margin-bottom: 10px;
+	background: #fff1f2;
+	border: #ffd5da 1px solid;
+	color: #d6001c;
+	border-radius: 4px;
+  width: 100%;
+}
+.success-message {
+	padding: 7px 10px;
+  margin-bottom: 10px;
+	background: #cae0c4;
+	border: #c3d0b5 1px solid;
+	color: #027506;
+	border-radius: 4px;
+  width: 100%;
+}
+
+@media only screen and (max-width: 992px;) {
+  .sticky + .container {
+    margin-top: 1120px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .headerDiv{
+    height: 250px;
+  }
+  .profileHeader{
+    margin-top: 31.25px;
+  }
+
+    .hide-sm {
+        opacity: 1;
+    }
+    .sticky + .container {
+      margin-top: 84.75px;
+    }
+}

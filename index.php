@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="css/master.css" rel="stylesheet" type="text/css">
+    <link href="css/footer.css" rel="stylesheet" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="./js/scroll.js"></script>
+    <title>Clearskies</title>
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="headerDiv">
+        <div class="headerText">
+          <h1>Welkom bij Clearskies! <br /><small>Streeft naar een betere toekomst...</small></h1>
+        </div>
+      </div>
+      <?php $pageName = "Home"; include_once "inc/navbar.php"?>
+      <div class="container">
+        <div class="row">
+          <div id="carouselIndex" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+              <li data-target="#carouselIndex" data-slide-to="0" class="active"></li>
+              <li data-target="#carouselIndex" data-slide-to="1"></li>
+              <li data-target="#carouselIndex" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner" role="listbox">
+              <div class="carousel-item active">
+                <img class="d-block w-100 img-fluid" src="assets/img/dijkveld.PNG" alt="First slide">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Laurens Dijkveld</h5>
+                  <p>Ons huidige project</p>
+                </div>
+            </div>
+              <div class="carousel-item">
+                <img class="d-block w-100 img-fluid" src="assets/img/hrlogo.jpg" alt="Second slide">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Meet the Team</h5>
+                  <p>Klik op de afbeelding!</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100 img-fluid" src="assets/img/hrlogo.jpg" alt="Third slide">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Mooie foto</h5>
+                  <p>Gaaf</p>
+                </div>
+              </div>
+          </div>
+            <a class="carousel-control-prev" href="#carouselIndex" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselIndex" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+      <?php include_once "inc/footer.php"?>
+  </body>
+</html>
