@@ -1,0 +1,5 @@
+foto afmetingen: 1400 x 900
+
+
+To Do:
+Profile pagina aanpassen dat met groot scherm de foto nogsteeds in het midden staat
