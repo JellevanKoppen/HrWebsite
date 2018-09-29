@@ -12,13 +12,13 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="./js/scroll.js"></script>
-    <title>Clearskies</title>
+    <title>Clear Skies</title>
   </head>
   <body>
     <div class="wrapper">
       <div class="headerDiv">
         <div class="headerText">
-          <h1>Welkom bij Clearskies! <br /><small>Streeft naar een betere toekomst...</small></h1>
+          <h1>Welkom bij Clear Skies! <br /><small>Streeft naar een betere toekomst...</small></h1>
         </div>
       </div>
       <?php $pageName = "Home"; include_once "inc/navbar.php"?>
@@ -34,7 +34,7 @@
               <div class="carousel-item active">
                 <img class="d-block w-100 img-fluid" src="assets/img/hrlogo.jpg" alt="First slide">
                 <div class="carousel-caption d-none d-md-block">
-                  <h5>Laurens Dijkveld</h5>
+                  <h5>Exoskelet</h5>
                   <p>Ons huidige project</p>
                 </div>
             </div>
@@ -65,6 +65,7 @@
         </div>
       </div>
     </div>
-      <?php include_once "inc/footer.php"?>
+    <?php include_once "inc/topbtn.php"?>
+    <?php include_once "inc/footer.php"?>
   </body>
 </html>
