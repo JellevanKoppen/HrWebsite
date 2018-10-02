@@ -27,16 +27,16 @@
 
             <ul class="list-unstyled">
               <li>
-                <a href="#!">Link 1</a>
+                <a href="about.php">The Team</a>
               </li>
               <li>
-                <a href="#!">Link 2</a>
+                <a href="project56.php">Project56</a>
               </li>
               <li>
-                <a href="#!">Link 3</a>
+                <a href="login.php">Inloggen</a>
               </li>
               <li>
-                <a href="#!">Link 4</a>
+                <a href="index.php">Home</a>
               </li>
             </ul>
 
@@ -97,4 +97,11 @@
     <!-- Copyright -->
 
   </footer>
+
   <!-- Footer -->
+
+  <!-- Scripts -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/scroll.js"></script>
+  <script src="js/navigator.js"></script>
