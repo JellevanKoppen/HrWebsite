@@ -48,6 +48,10 @@
       </nav>
       <div class="container">
         <div class="row">
+          <div class="col-12 my-2">
+            <p>Aan het begin van project 5/6 hebben wij aan het project klimaatbeheersing gewerkt voor Laurens Dijkveld. Hiervoor hebben wij ook aparte
+            pitches en vooronderzoeken ingeleverd. Wegens bewaarplicht en beoordeling zijn deze bestanden <a href="project56oud.php">hier</a> te vinden.</p>
+          </div>
           <div class="col-12 my-4">
             <h2  id="bestanden">Bestanden:</h2>
             <table class="table table-hover">

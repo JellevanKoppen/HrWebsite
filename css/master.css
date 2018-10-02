@@ -35,6 +35,11 @@ html,body{
   position: relative;
 }
 
+.project56oud{
+  background-color: white;
+  position: relative;
+}
+
 .headerImageProject{
   height: 500px;
   display: block;
@@ -97,11 +102,23 @@ p{
   z-index: 1000;
 }
 
+.project56oud h1{
+  color: black;
+  position: absolute;
+  top: 0;
+  padding: 10% 0 0 10%;
+}
+
 .project56 h1{
   color: white;
   position: absolute;
   top: 0;
   padding: 10% 0 0 10%;
+}
+
+.youtube{
+  width: 100%;
+  height: 275px;
 }
 
 .hrlogo{
@@ -131,11 +148,7 @@ p{
   transition: box-shadow 0.3s ease-in-out;
 }
 
-.sticky + .container{
-  margin-top: 79.78px;
-}
-
-.sticky + .project56{
+.sticky + .container, .sticky + .project56oud, .sticky + .project56{
   margin-top: 79.78px;
 }
 
@@ -224,6 +237,13 @@ p{
     font-size: 120%;
   }
 
+  .project56oud h1{
+    font-size: 100%;
+    top: 0;
+    right: 0;
+    padding: 10% 5% 0 0;
+  }
+
   .headerImageProject{
     height: 200px;
   }
@@ -248,10 +268,10 @@ p{
     margin-top: 31.25px;
   }
 
-    .hide-sm {
-        opacity: 1;
+  .hide-sm {
+    opacity: 1;
     }
-    .sticky + .container {
-      margin-top: 63.13px;
-    }
+  .sticky + .container {
+    margin-top: 63.13px;
+  }
 }
