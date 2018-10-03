@@ -72,7 +72,7 @@
                 <tr>
                   <th scope="row"><a href="assets/doc/Vooronderzoekproject56.pdf" target="_blank">Vooronderzoek Project56</th>
                   <td>.pdf</td>
-                  <td>Een persoonlijk onderzoek van Jelle met een oplossing voor het door Laurens Dijkveld opgestelde probleem</td>
+                  <td>Het onderzoek van Jelle met zijn oplossing voor Laurens Dijkveld</td>
                 </tr>
                 <tr>
                   <th scope="row">Bestanden van Rick</th>
@@ -80,9 +80,9 @@
                   <td></td>
                 </tr>
                 <tr>
-                  <th scope="row"><a href="assets/doc/Vooronderzoekproject56.pdf" target="_blank">Vooronderzoek Project56</th>
-                  <td>.pdf</td>
-                  <td>Een persoonlijk onderzoek van Rick met een oplossing voor het door Laurens Dijkveld opgestelde probleem</td>
+                  <th scope="row"><a href="assets/doc/Vooronderzoek Rick Kloppers (0943631).docx" target="_blank">Vooronderzoek Rick Kloppers</th>
+                  <td>.docx</td>
+                  <td>Het onderzoek van Rick met zijn oplossing voor Laurens Dijkveld</td>
                 </tr>
                 <tr>
                   <th scope="row">Bestanden van Ruud</th>
@@ -90,9 +90,9 @@
                   <td></td>
                 </tr>
                 <tr>
-                  <th scope="row"><a href="assets/doc/Vooronderzoekproject56.pdf" target="_blank">Vooronderzoek Project56</th>
-                  <td>.pdf</td>
-                  <td>Een persoonlijk onderzoek van Ruud met een oplossing voor het door Laurens Dijkveld opgestelde probleem</td>
+                  <th scope="row"><a href="#" target="_blank">...</th>
+                  <td>...</td>
+                  <td>...</td>
                 </tr>
                 <tr>
                   <th scope="row">Bestanden van Thomas</i></th>
@@ -100,7 +100,7 @@
                   <td></td>
                 </tr>
                 <tr>
-                  <th scope="row"><a href="assets/doc/Vooronderzoekproject56.pdf" target="_blank">Vooronderzoek Project56</th>
+                  <th scope="row"><a href="assets/doc/vooronderzoek-klimaatbeheersing.pdf" target="_blank">Vooronderzoek klimaatbeheersing</th>
                   <td>.pdf</td>
                   <td>Een persoonlijk onderzoek van Thomas met een oplossing voor het door Laurens Dijkveld opgestelde probleem</td>
                 </tr>
@@ -118,7 +118,7 @@
               </div>
               <div class="col-md-6">
                 <h3>Ruud</h3>
-                <iframe src="https://www.youtube.com/embed/R6_GKi3ifsg?rel=0" class="youtube" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/1Fwfk7tuSSA?rel=0" class="youtube" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 <h3>Thomas</h3>
                 <iframe src="https://www.youtube.com/embed/HZD719UJEGU?rel=0" class="youtube" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
               </div>
