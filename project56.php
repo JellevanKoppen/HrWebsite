@@ -59,7 +59,7 @@
                 <tr>
                   <th scope="col">Bestandsnaam</th>
                   <th scope="col">Soort</th>
-                  <th scope="col">Beschrijving</th>
+                  <th scope="col" class="d-none d-md-block" >Beschrijving</th>
                   <th scope="col">Auteur</th>
                 </tr>
               </thead>
@@ -67,7 +67,7 @@
                 <tr>
                   <th scope="row"><a href="assets/doc/samenwerkingscontract.pdf" target="_blank">Samenwerkingscontract</a></th>
                   <td>.pdf</td>
-                  <td>Opgestelt in overeenkomst met de leden van Clearskies</td>
+                  <td class="d-none d-md-block">Opgestelt in overeenkomst met de leden van Clearskies</td>
                   <td>Thomas Martens</td>
                 </tr>
               </tbody>

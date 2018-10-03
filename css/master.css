@@ -201,7 +201,7 @@ p{
 
 
 @media only screen and (max-width: 992px) {
-  .sticky + .container {
+  .sticky + .container, .sticky + .project56oud, .sticky + .project56{
     margin-top: 92.59px;
   }
 
@@ -271,7 +271,7 @@ p{
   .hide-sm {
     opacity: 1;
     }
-  .sticky + .container {
+  .sticky + .container, .sticky + .project56oud, .sticky + .project56{
     margin-top: 63.13px;
   }
 }
