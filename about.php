@@ -26,33 +26,33 @@
         <div class="row custom-container">
           <div class="col-md-6">
             <div class="row">
-              <div class="col-4">
-                <img src="assets/img/persons/jelle.jpg" class="rounded-circle img-fluid" alt="Jelle">
-              </div>
-              <div class="col-8 headerName">
-                <h3>Jelle van Koppen <br /><small>Website Beheerder</small></h3>
-                <div class="personalSocials">
-                  <a class="fb-ic">
-                    <i class="fab fa-facebook fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
-                  </a>
-                  <!-- Google-->
-                  <a class="gplus-ic">
-                    <i class="fab fa-google fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
-                  </a>
-                  <!--Linkedin -->
-                  <a class="li-ic">
-                    <i class="fab fa-linkedin fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
-                  </a>
-                  <!--Instagram-->
-                  <a class="ins-ic">
-                    <i class="fab fa-instagram fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
-                  </a>
+                <div class="col-4">
+                  <img src="assets/img/persons/jelle.jpg" class="rounded-circle img-fluid" alt="Jelle">
                 </div>
-              </div>
-              <div class="col-12">
-                <br />
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pellentesque orci risus, sit amet laoreet felis cursus in. Duis elementum gravida quam, vestibulum elementum sapien facilisis vel. Vestibulum velit neque, blandit eget tincidunt ut, pellentesque quis purus. Sed ac sodales ipsum. Duis pulvinar lorem nunc, vitae tempor enim porta nec. Quisque ut metus ipsum. Nunc viverra diam eget lorem ullamcorper fringilla. Fusce vel molestie felis. Maecenas non ipsum est.</p>
-              </div>
+                <div class="col-8 headerName">
+                  <h3>Jelle van Koppen <br /><small>Website Beheerder</small></h3>
+                  <div class="personalSocials">
+                    <a class="fb-ic">
+                      <i class="fab fa-facebook fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                    </a>
+                    <!-- Google-->
+                    <a class="gplus-ic">
+                      <i class="fab fa-google fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                    </a>
+                    <!--Linkedin -->
+                    <a class="li-ic">
+                      <i class="fab fa-linkedin fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                    </a>
+                    <!--Website-->
+                    <a  href="0944862/index.html">
+                      <i class="fas fa-globe-americas fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                    </a>
+                  </div>
+                </div>
+                <div class="col-12">
+                  <br />
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pellentesque orci risus, sit amet laoreet felis cursus in. Duis elementum gravida quam, vestibulum elementum sapien facilisis vel. Vestibulum velit neque, blandit eget tincidunt ut, pellentesque quis purus. Sed ac sodales ipsum. Duis pulvinar lorem nunc, vitae tempor enim porta nec. Quisque ut metus ipsum. Nunc viverra diam eget lorem ullamcorper fringilla. Fusce vel molestie felis. Maecenas non ipsum est.</p>
+                </div>
             </div>
           </div>
           <div class="col-md-6">
@@ -75,8 +75,8 @@
                     <i class="fab fa-linkedin fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                   </a>
                   <!--Instagram-->
-                  <a class="ins-ic">
-                    <i class="fab fa-instagram fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                  <a>
+                    <i class="fas fa-globe-americas fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                   </a>
                 </div>
               </div>
@@ -95,8 +95,8 @@
               <div class="col-8 headerName">
                 <h3>Ruud Wander <br /><small>Creatief Brein</small></h3>
                 <div class="personalSocials">
-                  <a class="fb-ic">
-                    <i class="fab fa-facebook fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                  <a class="fb-ic" href="https://www.instagram.com/jdm_ruudtje/" target="_blank">
+                    <i class="fab fa-instagram fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                   </a>
                   <!-- Google-->
                   <a class="gplus-ic">
@@ -107,8 +107,8 @@
                     <i class="fab fa-linkedin fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                   </a>
                   <!--Instagram-->
-                  <a class="ins-ic">
-                    <i class="fab fa-instagram fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                  <a  href="0943741/index.html">
+                    <i class="fas fa-globe-americas fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                   </a>
                 </div>
               </div>
@@ -138,8 +138,8 @@
                     <i class="fab fa-linkedin fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                   </a>
                   <!--Instagram-->
-                  <a class="ins-ic">
-                    <i class="fab fa-instagram fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                  <a>
+                    <i class="fas fa-globe-americas fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                   </a>
                 </div>
               </div>
