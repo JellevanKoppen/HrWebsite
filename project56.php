@@ -54,6 +54,7 @@
           </div>
           <div class="col-12 my-4">
             <h2  id="bestanden">Bestanden:</h2>
+            <h3>Onderzoek Clearskies</h3>
             <table class="table table-hover">
               <thead>
                 <tr>
@@ -69,6 +70,46 @@
                   <td>.pdf</td>
                   <td class="d-none d-md-block">Opgestelt in overeenkomst met de leden van Clearskies</td>
                   <td>Thomas Martens</td>
+                </tr>
+                <tr>
+                  <th scope="row"><a href="assets/doc/Vooronderzoekproject56Exoskelet.pdf" target="_blank">Vooronderzoek</a></th>
+                  <td>.pdf</td>
+                  <td class="d-none d-md-block">Een onderzoek over het exoskelet</td>
+                  <td>Jelle van Koppen</td>
+                </tr>
+                <tr>
+                  <th scope="row"><a href="assets/doc/Vooronderzoek Rick Kloppers (0943631)EXO.docx" target="_blank">Vooronderzoek</a></th>
+                  <td>.docx</td>
+                  <td class="d-none d-md-block">Een onderzoek over het exoskelet</td>
+                  <td>Rick Kloppers</td>
+                </tr>
+                <tr>
+                  <th scope="row"><a href="assets/doc/Vooronderzoek_Ruud_Wander_0943741.docx" target="_blank">Vooronderzoek</a></th>
+                  <td>.docx</td>
+                  <td class="d-none d-md-block">Een onderzoek over het exoskelet</td>
+                  <td>Ruud Wander</td>
+                </tr>
+                <tr>
+                  <th scope="row"><a href="assets/doc/Vooronderzoek EEG Hogeschool Rotterdam.pdf" target="_blank">Vooronderzoek</a></th>
+                  <td>.pdf</td>
+                  <td class="d-none d-md-block">Een onderzoek over het exoskelet</td>
+                  <td>Thomas Martens</td>
+                </tr>
+              </tbody>
+            </table>
+            <h3>Onderzoek Hogeschool Rotterdam</h3>
+            <table class="table table-hover">
+              <thead>
+                <tr>
+                  <th scope="col">Bestandsnaam</th>
+                  <th scope="col">Soort</th>
+                  <th scope="col" class="d-none d-md-block">Beschrijving</th>
+                  <th scope="col">Auteur</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td></td>
                 </tr>
               </tbody>
             </table>
