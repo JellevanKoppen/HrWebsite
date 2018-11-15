@@ -13,15 +13,24 @@
     <link href="css/master.css" rel="stylesheet" type="text/css">
     <link href="css/footer.css" rel="stylesheet" type="text/css">
     <title>Login</title>
+    <?php session_start() ?>
   </head>
   <body>
     <?php
+    if($_SESSION['ingelogd'] == "yes"){
+      header("Location: dashboard.php");
+    }
+      if ($_SERVER["REQUEST_METHOD"] == "POST") {
+        $gebruikersnaam = $_POST['userName'];
+        $wachtwoord = $_POST['password'];
 
-      // include "./inc/dbconnect.php";
-
-      // if ($_SERVER["REQUEST_METHOD"] == "POST") {
-      //   $gebruikersnaam = mysqli_real_escape_string($conn, $_POST['userName']);
-      //   $wachtwoord = mysqli_real_escape_string($conn, $_POST['password']);
+        if($gebruikersnaam == "clearskies" && $wachtwoord == "theskyisthelimit"){
+          $_SESSION['ingelogd'] = "yes";
+          header("Location: dashboard.php");
+        } else {
+          $error_message = "Foute inloggegevens! Controleer gebruikersnaam en/of wachtwoord";
+        }
+      }
       //   $sql="SELECT * FROM gebruikers";
       //   $result = mysqli_query($conn, $sql);
       //   while($dbemail = mysqli_fetch_assoc($result)){
@@ -66,15 +75,15 @@
             <div class="error-message col-sm-4 col-md-12"><?php if(isset($error_message)) echo $error_message; ?></div>
           <?php } ?>
           <h1>Inloggen</h1>
-          <form data-dpmaxz-eid="10">
+          <form  method="post" enctype="multipart/form-data" action="login.php">
             <fieldset>
               <div class="form-group">
                 <label for="userName">Gebruikersnaam</label>
-                <input type="text" class="form-control form-control-login" name="userName" id="userName" placeholder="Voer gebruikersnaam in" data-dpmaxz-eid="12">
+                <input type="text" class="form-control form-control-login" style="padding-left: 5px;" name="userName" id="userName" placeholder="Voer gebruikersnaam in" data-dpmaxz-eid="12">
               </div>
               <div class="form-group">
                 <label for="exampleInputPassword1">Wachtwoord</label>
-                <input type="password" class="form-control form-control-login" name="password" id="exampleInputPassword1" placeholder="Wachtwoord" data-dpmaxz-eid="13">
+                <input type="password" class="form-control form-control-login" style="padding-left: 5px;" name="password" id="exampleInputPassword1" placeholder="Wachtwoord" data-dpmaxz-eid="13">
               </div>
               <button type="submit" class="btn btn-primary" data-dpmaxz-eid="17">Login</button>
             </fieldset>

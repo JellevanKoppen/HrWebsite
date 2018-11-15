@@ -13,6 +13,7 @@
     <link href="css/master.css" rel="stylesheet" type="text/css">
     <link href="css/footer.css" rel="stylesheet" type="text/css">
     <title>Clear Skies</title>
+    <?php session_start() ?>
   </head>
   <body>
     <div class="wrapper">

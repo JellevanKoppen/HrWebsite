@@ -13,6 +13,7 @@
     <link href="css/master.css" rel="stylesheet" type="text/css">
     <link href="css/footer.css" rel="stylesheet" type="text/css">
     <title>Clearskies</title>
+    <?php session_start() ?>
   </head>
   <body>
     <div class="wrapper" id="top">
@@ -35,6 +36,9 @@
               <a class="nav-link" href="#top"> Project 5/6</a>
             </li>
             <li class="nav-item">
+              <a class="nav-link" href="#voortgang">Voortgang</a>
+            </li>
+            <li class="nav-item">
               <a class="nav-link" href="#bestanden">Bestanden</a>
             </li>
             <li class="nav-item">
@@ -53,6 +57,10 @@
             pitches en vooronderzoeken ingeleverd. Wegens bewaarplicht en beoordeling zijn deze bestanden <a href="project56oud.php">hier</a> te vinden.</p>
           </div>
           <div class="col-12 my-4">
+            <h2  id="voortgang">Voortgang:</h2>
+            <p>Klik <a href="project56voortgang.php">hier </a>om een duidelijk voortgangsoverzicht te krijgen van project56.</p>
+          </div>
+          <div class="col-12">
             <h2  id="bestanden">Bestanden:</h2>
             <table class="table table-hover">
               <thead>
