@@ -105,22 +105,6 @@
                 </tr>
               </tbody>
             </table>
-            <h3>Onderzoek Hogeschool Rotterdam</h3>
-            <table class="table table-hover">
-              <thead>
-                <tr>
-                  <th scope="col">Bestandsnaam</th>
-                  <th scope="col">Soort</th>
-                  <th scope="col" class="d-none d-md-block">Beschrijving</th>
-                  <th scope="col">Auteur</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td></td>
-                </tr>
-              </tbody>
-            </table>
           </div>
           <div class="col-12">
             <h2 id="gallerij">Gallerij:</h2>
