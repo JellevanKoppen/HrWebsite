@@ -48,7 +48,8 @@
             $naam = "Thomas Martens";
           }
 
-          $newpost = '<section>
+          $newpost =
+          '<section class="voortgang">
             <div class="col-12 my-4 blokkie">
               <h2>'. $titel .'</h2>
               <div class="streepje"></div>
@@ -56,7 +57,7 @@
               <div class="row midden_wrapper">
                 <div class="col-6">
                   <div class="row midden_wrapper">
-                    <div class="col-2">
+                    <div class="col-2 profielfoto">
                       <img src="assets/img/persons/'. $auteur .'.jpg" class="img-fluid rounded-circle" alt="ruud">
                     </div>
                     <div class="col-10 midden_content">

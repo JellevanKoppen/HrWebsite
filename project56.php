@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link href="css/master.css" rel="stylesheet" type="text/css">
+    <link href="css/modal.css" rel="stylesheet" type="text/css">
     <link href="css/footer.css" rel="stylesheet" type="text/css">
     <title>Clearskies</title>
     <?php session_start() ?>
@@ -110,6 +111,7 @@
             <h2 id="gallerij">Gallerij:</h2>
             <div class="row margin-row">
               <div class="col-md-3 gallerij">
+                <img id="chart" src="assets/img/morph.jpeg" style="width: 90%; position: absolute; height: 80%; margin-top: 10%;" alt="morphological chart">
               </div>
               <div class="col-md-3 offset-md-1 gallerij">
               </div>
@@ -127,6 +129,18 @@
           </div>
         </div>
       </div>
+    </div>
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
+
+      <!-- The Close Button -->
+      <span class="close">&times;</span>
+
+      <!-- Modal Content (The Image) -->
+      <img class="modal-content" id="img01">
+
+      <!-- Modal Caption (Image Text) -->
+      <div id="caption"></div>
     </div>
     <?php include_once "inc/topbtn.php"?>
     <?php include_once "inc/footer.php"?>

@@ -33,6 +33,28 @@
       <div class="container">
         <div class="row">
           <!-- start input -->
+<section class="voortgang">
+            <div class="col-12 my-4 blokkie">
+              <h2>Update: Exoskelet arm</h2>
+              <div class="streepje"></div>
+              <p>De arm die wij ontvingen van het vorige project vonden wij te groot, zwaar en lomp, de motors die daar opzaten waren erg groot en zwaar. Daarom hebben wij besloten om een andere arm te maken. We hebben op internet gezocht naar Exo Suit armen. We hebben toen een mooie arm gevonden en die nagemaakt. We hebben de arm met een 3D printer gemaakt. Alle onderdelen zijn van PLA gemaakt. We gaan nu werken aan de aansturing. We moeten ook nog bevestigen maken voor de motoren die aan de arm komen.</p>
+              <div class="row midden_wrapper">
+                <div class="col-6">
+                  <div class="row midden_wrapper">
+                    <div class="col-2 profielfoto">
+                      <img src="assets/img/persons/ruud.jpg" class="img-fluid rounded-circle" alt="ruud">
+                    </div>
+                    <div class="col-10 midden_content">
+                      <h4>Ruud Wander</h4>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-6 midden_content">
+                  <h5>17-11-2018</h5>
+                </div>
+              </div>
+            </div>
+          </section>
         </div>
       </div>
     </div>

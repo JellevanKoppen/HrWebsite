@@ -105,3 +105,4 @@
   <script src="js/bootstrap.min.js"></script>
   <script src="js/scroll.js"></script>
   <script src="js/navigator.js"></script>
+  <script src="js/modal.js"></script>
