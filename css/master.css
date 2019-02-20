@@ -167,12 +167,44 @@ p{
   height: 2000px;
 }
 
+.teamname{
+  float: left;
+  width: 25%;
+  background: purple;
+}
+
 .streep{
   width: 25%;
   height: 5px;
   background-color: #2196F3;
   margin-top: 147.5px;
   border-radius: 10px;
+}
+
+.panel-heading{
+  border-top: 1px solid #dee2e6;
+  border-bottom: 1px solid #dee2e6;
+  cursor:pointer;
+}
+
+.panelbstyling{
+  padding: 12px;
+  border-bottom: 1px solid #dee2e6;
+  background: #f0f2f4;
+}
+
+.panelstyling{
+  padding-left: 12px;
+}
+
+.teamContainer{
+}
+
+.teamButton{
+  float: left;
+  padding: 12px;
+  width: 50%;
+  cursor: pointer;
 }
 
 .hide-sm{

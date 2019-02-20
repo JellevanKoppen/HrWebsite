@@ -62,6 +62,89 @@
             <p>Klik <a href="project56voortgang.php">hier </a>om een duidelijk voortgangsoverzicht te krijgen van project56.</p>
           </div>
           <div class="col-12">
+            <h2  id="voortgang">Taakverdeling:</h2>
+            <p>Voor dit project waren er een groot aantal taken om te vedelen. Zo moest er niet alleen een arm worden ontworpen en uitgeprint, maar er moet
+             ook een gebruikersvriendelijke omgeving worden opgezet voor de EEG Headset. De taakverdeling die we hebben aangehouden is als volgt:</p>
+             <table class="table table-hover">
+               <h4>Nog te doen</h4>
+               <thead>
+                 <tr>
+                   <th scope="col">Taak</th>
+                   <th scope="col">Groepsleden</th>
+                 </tr>
+               </thead>
+               <tbody>
+                 <tr>
+                   <td>Definitieve Python code creeëren</td>
+                   <td>Thomas, Jelle</td>
+                 </tr>
+                 <tr>
+                   <td>Onderzoek Batterijen</td>
+                   <td>Thomas, Jelle</td>
+                 </tr>
+                 <tr>
+                   <td>Exoskelet arm modificatie</td>
+                   <td>Ruud, Rick</td>
+                 </tr>
+                 <tr>
+                   <td>Communucatie Raspberry Pi, EEG headset</td>
+                   <td>Thomas, Jelle</td>
+                 </tr>
+                 <tr>
+                   <td>Onderzoek feedback motoren</td>
+                   <td>Ruud, Rick</td>
+                 </tr>
+                 <tr>
+                   <td>Onderzoek filteren hersengolven</td>
+                   <td>Thomas, Jelle</td>
+                 </tr>
+               </tbody>
+             </table>
+             <table class="table table-hover">
+               <h4>Klaar</h4>
+               <thead>
+                 <tr>
+                   <th scope="col">Taak</th>
+                   <th scope="col">Groepsleden</th>
+                 </tr>
+               </thead>
+               <tbody>
+                 <tr>
+                   <td>3D Print Ontwerp V1</td>
+                   <td>Ruud, Rick</td>
+                 </tr>
+                 <tr>
+                   <td>Onderzoek Motoren</td>
+                   <td>Ruud, Rick</td>
+                 </tr>
+                 <tr>
+                   <td>Onderzoek Raspberry Pi</td>
+                   <td>Jelle, Thomas</td>
+                 </tr>
+                 <tr>
+                   <td>Onderzoek Arduino</td>
+                   <td>Jelle, Thomas</td>
+                 </tr>
+                 <tr>
+                   <td>Onderzoek 3D materialen</td>
+                   <td>Ruud, Rick</td>
+                 </tr>
+                 <tr>
+                   <td>Onderzoek dataoverdracht</td>
+                   <td>Jelle, Thomas</td>
+                 </tr>
+                 <tr>
+                   <td>Onderzoek Python vs C++</td>
+                   <td>Jelle, Thomas</td>
+                 </tr>
+                 <tr>
+                   <td>Website development</td>
+                   <td>Jelle</td>
+                 </tr>
+               </tbody>
+             </table>
+          </div>
+          <div class="col-12">
             <h2  id="bestanden">Bestanden:</h2>
             <h3>Onderzoek Clearskies</h3>
             <table class="table table-hover">
@@ -122,7 +205,7 @@
           <div class="col-12" style="margin-top: 50px;">
             <h2 id="github">Github:</h2>
             <center>
-              <a href="https://github.com/JellevanKoppen/Project56" target="_blank">
+              <a href="https://github.com/thomasmartensgithub/Emotiv_EEG" target="_blank">
                 <img src="assets/img/Github.jpg" alt="Github" class="img-fluid">
               </a>
           </center>

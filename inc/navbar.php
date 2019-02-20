@@ -9,7 +9,10 @@
         <a class="nav-link" href="index.php">Home<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="project56.php">Projecten</a>
+        <a class="nav-link" href="project56.php">Project 56</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="project78.php">Project 78</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="about.php">The Team</a>
