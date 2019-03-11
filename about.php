@@ -24,13 +24,19 @@
       </div>
       <?php $pageName = "The Team"; include_once "inc/navbar.php"?>
       <div class="container">
-        <div class="teamButton">
-          <h3>Team AFD</h3>
-        </div>
-        <div class="teamButton">
-          <h3>Team Exoskelet</h3>
-        </div>
-        <div class="row custom-container">
+          <div class="col-sm-12">
+            <div class="col-sm-6">
+              <div id="afdbutton" onclick="toggleTeam()" class="teamButton teamButtonActive mr-2">
+                <h3>Team AFD</h3>
+              </div>
+            </div>
+            <div class="col-sm-6">
+              <div id="exobutton" onclick="toggleTeam()" class="teamButton">
+                <h3>Team Exoskelet</h3>
+              </div>
+            </div>
+          </div>
+          <div id="teamAFD" class="row custom-container">
           <div class="col-md-6">
             <div class="row">
               <div class="col-4">
@@ -155,6 +161,8 @@
                 </div>
               </div>
             </div>
+          </div>
+          <div id="teamExo" class="row custom-container">
             <div class="col-md-6">
               <div class="row">
                 <div class="col-4">

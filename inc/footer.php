@@ -33,6 +33,9 @@
                 <a href="project56.php">Project56</a>
               </li>
               <li>
+                <a href="project78.php">Project78</a>
+              </li>
+              <li>
                 <a href="login.php">Inloggen</a>
               </li>
               <li>
@@ -103,6 +106,7 @@
   <!-- Scripts -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
+  <script src="js/master.js"> </script>
   <script src="js/scroll.js"></script>
   <script src="js/navigator.js"></script>
   <script src="js/modal.js"></script>

@@ -33,23 +33,23 @@
             </ol>
             <div class="carousel-inner" role="listbox">
               <div class="carousel-item active">
-                <a href="project56.php"><img class="d-block w-100 img-fluid" src="assets/img/exoskeleton.png" alt="First slide"></a>
+                <a href="project78.php"><img class="d-block w-100 img-fluid" src="assets/img/drone.jpg" alt="First slide"></a>
                 <div class="carousel-caption d-none d-md-block">
-                  <h5>Exoskelet</h5>
+                  <h5>Autonomous Following Drone</h5>
                   <p>Ons huidige project</p>
-                </div>
-            </div>
-              <div class="carousel-item">
-                <a href="about.php"><img class="d-block w-100 img-fluid" src="assets/img/hrlogo.jpg" alt="Second slide"></a>
-                <div class="carousel-caption d-none d-md-block">
-                  <h5>Meet the Team</h5>
-                  <p>Klik op de afbeelding!</p>
                 </div>
               </div>
               <div class="carousel-item">
-                <a href="login.php"><img class="d-block w-100 img-fluid" src="assets/img/hrlogo.jpg" alt="Third slide"></a>
+                <a href="project56.php"><img class="d-block w-100 img-fluid" src="assets/img/exoskeleton.png" alt="Second slide"></a>
                 <div class="carousel-caption d-none d-md-block">
-                  <h5>Inloggen</h5>
+                  <h5>Exoskelet</h5>
+                  <p>Ons vorige project</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <a href="about.php"><img class="d-block w-100 img-fluid" src="assets/img/hrlogo.jpg" alt="Third slide"></a>
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Meet the Team</h5>
                   <p>Klik op de afbeelding!</p>
                 </div>
               </div>

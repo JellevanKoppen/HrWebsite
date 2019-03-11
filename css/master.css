@@ -30,12 +30,11 @@ html,body{
   animation-duration: 0.75s;
 }
 
-.project56{
-  background-color: black;
+.project{
   position: relative;
 }
 
-.project56oud{
+.projectoud{
   background-color: white;
   position: relative;
 }
@@ -70,7 +69,8 @@ html,body{
 }
 
 .custom-container{
-  padding: 50px 0;
+  padding: 25px 0 50px 0;
+  width: 100%;
 }
 
 .headerName{
@@ -102,14 +102,14 @@ p{
   z-index: 1000;
 }
 
-.project56oud h1{
+.projectoud h1{
   color: black;
   position: absolute;
   top: 0;
   padding: 10% 0 0 10%;
 }
 
-.project56 h1{
+.project h1{
   color: white;
   position: absolute;
   top: 0;
@@ -148,7 +148,7 @@ p{
   transition: box-shadow 0.3s ease-in-out;
 }
 
-.sticky + .container, .sticky + .project56oud, .sticky + .project56{
+.sticky + .container, .sticky + .projectoud, .sticky + .project{
   margin-top: 79.78px;
 }
 
@@ -197,14 +197,36 @@ p{
   padding-left: 12px;
 }
 
-.teamContainer{
+.teamAFD{
+  display:;
+}
+
+.teamExo{
+  display: none;
 }
 
 .teamButton{
   float: left;
   padding: 12px;
-  width: 50%;
+  margin-top: 50px;
+  width: calc(50% - 0.5rem);
   cursor: pointer;
+  text-align: center;
+  border-radius: 15px 15px 0 0;
+  border-left: 1px solid grey;
+  border-top: 1px solid grey;
+  border-right: 1px solid grey;
+  transition: background-color 0.5s;
+}
+
+
+.teamButton:hover{
+  background-color: #d9d9d9;
+  transition: background-color 0.5s;
+}
+
+.teamButtonActive{
+  background-color: #f2f2f2;
 }
 
 .hide-sm{
@@ -233,7 +255,7 @@ p{
 
 
 @media only screen and (max-width: 992px) {
-  .sticky + .container, .sticky + .project56oud, .sticky + .project56{
+  .sticky + .container, .sticky + .projectoud, .sticky + .project{
     margin-top: 92.59px;
   }
 
@@ -265,11 +287,11 @@ p{
     margin-left: 0;
   }
 
-  .project56 h1{
+  .project h1{
     font-size: 120%;
   }
 
-  .project56oud h1{
+  .projectoud h1{
     font-size: 100%;
     top: 0;
     right: 0;
@@ -303,7 +325,7 @@ p{
   .hide-sm {
     opacity: 1;
     }
-  .sticky + .container, .sticky + .project56oud, .sticky + .project56{
+  .sticky + .container, .sticky + .projectoud, .sticky + .project{
     margin-top: 63.13px;
   }
 }

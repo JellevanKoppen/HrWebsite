@@ -24,11 +24,11 @@
         </div>
       </div>
       <?php $pageName = "Project 7/8"; include_once "inc/navbar.php"?>
-      <div class="project56">
-          <img src="assets/img/headerproject56V2.jpg" class="headerImageProject img-fluid" alt="HeaderExoskalet">
+      <div class="project" style="background-color: #94d3c0;">
+          <img src="assets/img/headerproject78.jpg" class="headerImageProject img-fluid" alt="HeaderAFD">
           <img src="assets/img/hrlogowit.png" alt="hrlogo" class="img-fluid hrlogo d-none d-md-block">
-          <h1 class="d-none d-md-block">Project 7/8: Autonomous Following Drone <br /> <small class="d-none d-md-block">Rotterdam University of Applied Sciences</small></h3>
-          <h1 class="d-md-none">Project 7/8: AFD</h1>
+          <h1 class="d-none d-md-block" style="text-shadow: 4px 3px 0px #7A7A7A;">Project 7/8: Autonomous Following Drone <br /> <small class="d-none d-md-block">Rotterdam University of Applied Sciences</small></h3>
+          <h1 class="d-md-none" style="text-shadow: 4px 3px 0px #7A7A7A;">Project 7/8: AFD</h1>
         <div id="gradient"></div>
       </div>
       <nav class="navbar navbar-expand navbar-light bg-light">
@@ -54,7 +54,7 @@
       </nav>
       <div class="container">
         <div class="row">
-          <div class="col-12 my-2">
+          <div class="col-12 my-4">
             <h2  id="scrum">Scrum:</h2>
             <p>Voor dit project is er gebruik gemaakt van de werkmethode scrum. Het scrumbord wat wij gebruiken staat op trello.
             Alle bestanden met betrekking tot dit bord zijn te vinden op deze website.</p>
@@ -170,40 +170,16 @@
               </tbody>
             </table>
           </div>
-          <!-- <div class="col-12">
-            <h2 id="gallerij">Gallerij:</h2>
-            <div class="row margin-row">
-              <div class="col-md-3 gallerij">
-                <img id="chart" src="assets/img/morph.jpeg" style="width: 90%; position: absolute; height: 80%; margin-top: 10%;" alt="morphological chart">
-              </div>
-              <div class="col-md-3 offset-md-1 gallerij">
-              </div>
-              <div class="col-md-3 offset-md-1 gallerij">
-              </div>
-            </div>
-          </div> -->
           <div class="col-12" style="margin-top: 50px;">
             <h2 id="github">Github:</h2>
             <center>
-              <a href="https://github.com/JellevanKoppen/Project56" target="_blank">
+              <a href="https://github.com/JellevanKoppen/Project78" target="_blank">
                 <img src="assets/img/Github.jpg" alt="Github" class="img-fluid">
               </a>
           </center>
           </div>
         </div>
       </div>
-    </div>
-    <!-- The Modal -->
-    <div id="myModal" class="modal">
-
-      <!-- The Close Button -->
-      <span class="close">&times;</span>
-
-      <!-- Modal Content (The Image) -->
-      <img class="modal-content" id="img01">
-
-      <!-- Modal Caption (Image Text) -->
-      <div id="caption"></div>
     </div>
     <?php include_once "inc/topbtn.php"?>
     <?php include_once "inc/footer.php"?>

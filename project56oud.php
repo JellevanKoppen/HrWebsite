@@ -23,7 +23,7 @@
         </div>
       </div>
       <?php $pageName = "Project 5/6"; include_once "inc/navbar.php"?>
-      <div class="project56oud">
+      <div class="projectoud">
           <img src="assets/img/laurens.jpg" class="headerImageProject img-fluid" alt="HeaderLaurens">
           <img src="assets/img/hrlogoblauw.png" alt="hrlogo" class="img-fluid hrlogo d-none d-md-block">
           <h1>Project 5/6: Klimaatbeheersing <br /> <small class="d-none d-md-block">Rotterdam University of Applied Sciences</small></h3>
