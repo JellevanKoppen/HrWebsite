@@ -58,18 +58,68 @@
             <h2  id="scrum">Scrum:</h2>
             <p>Voor dit project is er gebruik gemaakt van de werkmethode scrum. Het scrumbord wat wij gebruiken staat op trello.
             Alle bestanden met betrekking tot dit bord zijn te vinden op deze website.</p>
+            <h4>Sprint 1</h4>
+            <table class="table table-hover">
+              <thead>
+                <th scope="col">User Story</th>
+                <th scope="col">Status</th>
+              </thead>
+              <tbody>
+                <tr class="tableLate">
+                  <td>De drone moet kunnen vliegen</td>
+                  <td>Loopt achter</td>
+                </tr>
+              </tbody>
+            </table>
+            <h4>Sprint 2</h4>
+            <table class="table table-hover">
+              <thead>
+                <th scope="col">User Story</th>
+                <th scope="col">Status </th>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Onderzoek doen naar communicatie</td>
+                  <td>In bedrijf</td>
+                </tr>
+                <tr>
+                  <td>Onderzoek doen naar person tracking</td>
+                  <td>In bedrijf</td>
+                </tr>
+                <tr>
+                  <td>Onderzoek doen naar sensoren</td>
+                  <td>In bedrijf</td>
+                </tr>
+                <tr>
+                  <td>Onderzoek doen naar App development</td>
+                  <td>In bedrijf</td>
+                </tr>
+              </tbody>
+            </table>
              <table class="table table-hover">
-               <h4>Scrum</h4>
+               <h4>Scrum bestanden</h4>
                <thead>
                  <tr>
                    <th scope="col">Beschrijving</th>
-                   <th scope="col">Linkje</th>
+                   <th scope="col">Bestand</th>
+                   <th scope="col">Type</th>
                  </tr>
                </thead>
                <tbody>
                  <tr>
+                   <td>Contacttijden</td>
+                   <td><a href="assets/doc/Project78IndelingOP3.pdf" target="_blank">Project78 Indeling</a></td>
+                   <td>PDF</td>
+                 </tr>
+                 <tr>
                    <td>Scrumbord</td>
                    <td><a href="https://trello.com/b/RHjxuKDi/drone-team">Trello</a></td>
+                   <td>Link</td>
+                 </tr>
+                 <tr>
+                   <td>Product backlog</td>
+                   <td><a href="assets/doc/ProductBacklog.pdf" target="_blank">Product Backlog</a></td>
+                   <td>PDF</td>
                  </tr>
                </tbody>
              </table>

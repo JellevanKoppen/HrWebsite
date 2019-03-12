@@ -197,6 +197,24 @@ p{
   padding-left: 12px;
 }
 
+.tableDone{
+  background-color: #48b02c;
+  color: white;
+}
+
+.tableLate{
+  background-color: #ff4141;
+  color: white;
+}
+
+.tableLate:hover{
+  background-color: #ff1a1a;
+}
+
+.tableDone:hover{
+  background-color: #3b8f24;
+}
+
 .teamAFD{
   display:;
 }
