@@ -208,11 +208,13 @@ p{
 }
 
 .tableLate:hover{
-  background-color: #ff1a1a;
+  background-color: #ff1a1a !important;
+  transition: background-color 0.5s linear;
 }
 
 .tableDone:hover{
-  background-color: #3b8f24;
+  background-color: #3b8f24 !important;
+  transition: background-color 0.5s linear;
 }
 
 .teamAFD{
