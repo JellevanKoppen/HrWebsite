@@ -65,9 +65,9 @@
                 <th scope="col">Status</th>
               </thead>
               <tbody>
-                <tr class="tableLate">
+                <tr class="tableDone">
                   <td>De drone moet kunnen vliegen</td>
-                  <td>Loopt achter</td>
+                  <td>Klaar</td>
                 </tr>
               </tbody>
             </table>
@@ -78,21 +78,34 @@
                 <th scope="col">Status </th>
               </thead>
               <tbody>
-                <tr>
+                <tr class="tableDoing">
                   <td>Onderzoek doen naar communicatie</td>
                   <td>In bedrijf</td>
                 </tr>
-                <tr>
+                <tr class="tableDoing">
                   <td>Onderzoek doen naar person tracking</td>
                   <td>In bedrijf</td>
                 </tr>
-                <tr>
+                <tr class="tableDoing">
                   <td>Onderzoek doen naar sensoren</td>
                   <td>In bedrijf</td>
                 </tr>
-                <tr>
+                <tr class="tableDoing">
                   <td>Onderzoek doen naar App development</td>
                   <td>In bedrijf</td>
+                </tr>
+              </tbody>
+            </table>
+            <h4>Sprint 3</h4>
+            <table class="table table-hover">
+              <thead>
+                <th scope="col">User Story</th>
+                <th scope="col">Status </th>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Drone onderdelen bestellen m.b.t. autonoom vliegen</td>
+                  <td>Gepland</td>
                 </tr>
               </tbody>
             </table>

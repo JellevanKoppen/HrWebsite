@@ -36,7 +36,7 @@
               </div>
             </div>
           </div>
-          <div id="teamAFD" class="row custom-container">
+          <div id="teamAfd" class="row custom-container">
           <div class="col-md-6">
             <div class="row">
               <div class="col-4">
@@ -162,7 +162,7 @@
               </div>
             </div>
           </div>
-          <div id="teamExo" class="row custom-container">
+          <div id="teamExo" style="display:none;" class="row custom-container">
             <div class="col-md-6">
               <div class="row">
                 <div class="col-4">

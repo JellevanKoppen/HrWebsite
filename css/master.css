@@ -197,6 +197,11 @@ p{
   padding-left: 12px;
 }
 
+.tableDoing{
+  color: white;
+  background-color: #3da2f5;
+}
+
 .tableDone{
   background-color: #48b02c;
   color: white;
@@ -205,6 +210,11 @@ p{
 .tableLate{
   background-color: #ff4141;
   color: white;
+}
+
+.tableDoing:hover{
+  background-color: #2196f3 !important;
+  transition: background-color 0.5s linear;
 }
 
 .tableLate:hover{
@@ -241,12 +251,12 @@ p{
 
 
 .teamButton:hover{
-  background-color: #d9d9d9;
+  background-color: #e7f3fe;
   transition: background-color 0.5s;
 }
 
 .teamButtonActive{
-  background-color: #f2f2f2;
+  background-color: #cfe8fc;
 }
 
 .hide-sm{
@@ -277,6 +287,15 @@ p{
 @media only screen and (max-width: 992px) {
   .sticky + .container, .sticky + .projectoud, .sticky + .project{
     margin-top: 92.59px;
+  }
+
+  .teamButton{
+    height: 75px;
+    align-items: center;
+  }
+
+  #afdbutton{
+    padding-top:25px;
   }
 
   .headerImageProject{
