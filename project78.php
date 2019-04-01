@@ -78,21 +78,21 @@
                 <th scope="col">Status </th>
               </thead>
               <tbody>
-                <tr class="tableDoing">
+                <tr class="tableDone">
                   <td>Onderzoek doen naar communicatie</td>
-                  <td>In bedrijf</td>
+                  <td>Klaar</td>
                 </tr>
-                <tr class="tableDoing">
+                <tr class="tableLate">
                   <td>Onderzoek doen naar person tracking</td>
-                  <td>In bedrijf</td>
+                  <td>Loopt achter</td>
                 </tr>
-                <tr class="tableDoing">
+                <tr class="tableDone">
                   <td>Onderzoek doen naar sensoren</td>
-                  <td>In bedrijf</td>
+                  <td>Klaar</td>
                 </tr>
-                <tr class="tableDoing">
+                <tr class="tableLate">
                   <td>Onderzoek doen naar App development</td>
-                  <td>In bedrijf</td>
+                  <td>Loopt achter</td>
                 </tr>
               </tbody>
             </table>
@@ -103,12 +103,25 @@
                 <th scope="col">Status </th>
               </thead>
               <tbody>
-                <tr>
+                <tr class="tableDoing">
                   <td>Drone onderdelen bestellen m.b.t. autonoom vliegen</td>
-                  <td>Gepland</td>
+                  <td>In bedrijf</td>
                 </tr>
-                <tr>
+                <tr class="tableDone">
                   <td>Drone moet kunnen hoveren</td>
+                  <td>Klaar</td>
+                </tr>
+              </tbody>
+            </table>
+            <h4 class="mt-5">Sprint 4</h4>
+            <table class="table table-hover">
+              <thead>
+                <th scope="col">User Story</th>
+                <th scope="col">Status </th>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Experiment Communicatie (Bluetooth Range)</td>
                   <td>Gepland</td>
                 </tr>
               </tbody>
