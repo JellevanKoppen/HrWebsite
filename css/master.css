@@ -25,6 +25,16 @@ html,body{
   transition: opacity 0.5s linear;
 }
 
+.sprintButton{
+  cursor: pointer;
+  position: absolute;
+  background-color: #2196F3;
+  border-radius: 20px;
+  color: white;
+  padding: 10px;
+  margin-left: -10px;
+}
+
 .animatetop{
   animation-name: top;
   animation-duration: 0.75s;

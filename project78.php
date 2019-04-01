@@ -54,48 +54,68 @@
       </nav>
       <div class="container">
         <div class="row">
-          <div class="col-12 my-4">
+          <div class="col-12 my-4 mb-5">
             <h2  id="scrum">Scrum:</h2>
             <p>Voor dit project is er gebruik gemaakt van de werkmethode scrum. Het scrumbord wat wij gebruiken staat op trello.
             Alle bestanden met betrekking tot dit bord zijn te vinden op deze website.</p>
-            <h4 class="mt-4">Sprint 1</h4>
-            <table class="table table-hover">
-              <thead>
-                <th scope="col">User Story</th>
-                <th scope="col">Status</th>
-              </thead>
-              <tbody>
-                <tr class="tableDone">
-                  <td>De drone moet kunnen vliegen</td>
-                  <td>Klaar</td>
-                </tr>
-              </tbody>
-            </table>
-            <h4 class="mt-5">Sprint 2</h4>
-            <table class="table table-hover">
-              <thead>
-                <th scope="col">User Story</th>
-                <th scope="col">Status </th>
-              </thead>
-              <tbody>
-                <tr class="tableDone">
-                  <td>Onderzoek doen naar communicatie</td>
-                  <td>Klaar</td>
-                </tr>
-                <tr class="tableLate">
-                  <td>Onderzoek doen naar person tracking</td>
-                  <td>Loopt achter</td>
-                </tr>
-                <tr class="tableDone">
-                  <td>Onderzoek doen naar sensoren</td>
-                  <td>Klaar</td>
-                </tr>
-                <tr class="tableLate">
-                  <td>Onderzoek doen naar App development</td>
-                  <td>Loopt achter</td>
-                </tr>
-              </tbody>
-            </table>
+            <div class="panel-group">
+              <div class="panel panel-default">
+                <div style="height: 45px;">
+                  <h4 class="sprintButton">
+                    <div data-toggle="collapse" href="#sprint1">Sprint 1 <i class="fas fa-angle-down" style="margin: 0 5px;"></i></div>
+                  </h4>
+                </div>
+                <div id="sprint1" class="panel-collapse collapse" style="padding-top: 5px;">
+                  <table class="table table-hover panel-body">
+                    <thead>
+                      <th scope="col">User Story</th>
+                      <th scope="col">Status</th>
+                    </thead>
+                    <tbody>
+                      <tr class="tableDone">
+                        <td>De drone moet kunnen vliegen</td>
+                        <td>Klaar</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+            <div class="panel-group">
+              <div class="panel panel-default">
+                <div style="height: 45px;">
+                  <h4 class="sprintButton">
+                    <div data-toggle="collapse" href="#sprint2">Sprint 2 <i class="fas fa-angle-down" style="margin: 0 5px;"></i></div>
+                  </h4>
+                </div>
+                <div id="sprint2" class="panel-collapse collapse" style="padding-top: 5px;">
+                  <table class="table table-hover">
+                    <thead>
+                      <th scope="col">User Story</th>
+                      <th scope="col">Status </th>
+                    </thead>
+                    <tbody>
+                      <tr class="tableDone">
+                        <td>Onderzoek doen naar communicatie</td>
+                        <td>Klaar</td>
+                      </tr>
+                      <tr class="tableLate">
+                        <td>Onderzoek doen naar person tracking</td>
+                        <td>Loopt achter</td>
+                      </tr>
+                      <tr class="tableDone">
+                        <td>Onderzoek doen naar sensoren</td>
+                        <td>Klaar</td>
+                      </tr>
+                      <tr class="tableLate">
+                        <td>Onderzoek doen naar App development</td>
+                        <td>Loopt achter</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
             <h4 class="mt-5">Sprint 3</h4>
             <table class="table table-hover">
               <thead>
