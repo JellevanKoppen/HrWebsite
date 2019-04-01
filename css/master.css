@@ -312,6 +312,15 @@ p{
     height: 200px;
   }
 
+  #video2{
+    margin-top:1.5rem !important;
+  }
+
+  .nav-link{
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+  }
+
   .navbar{
     padding: 0.5rem 1rem;
   }

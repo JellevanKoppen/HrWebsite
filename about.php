@@ -150,7 +150,7 @@
                       <i class="fab fa-linkedin fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                     </a>
                     <!--Instagram-->
-                    <a>
+                    <a href="https://stud.hr.nl/0950733">
                       <i class="fas fa-globe-americas fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                     </a>
                   </div>

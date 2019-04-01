@@ -43,9 +43,9 @@
             <li class="nav-item">
               <a class="nav-link" href="#bestanden">Bestanden</a>
             </li>
-            <!-- <li class="nav-item">
-              <a class="nav-link" href="#gallerij">Gallerij</a>
-            </li> -->
+            <li class="nav-item">
+              <a class="nav-link" href="#media">Media</a>
+            </li>
             <li class="nav-item">
               <a class="nav-link" href="#github">Github</a>
             </li>
@@ -58,7 +58,7 @@
             <h2  id="scrum">Scrum:</h2>
             <p>Voor dit project is er gebruik gemaakt van de werkmethode scrum. Het scrumbord wat wij gebruiken staat op trello.
             Alle bestanden met betrekking tot dit bord zijn te vinden op deze website.</p>
-            <h4>Sprint 1</h4>
+            <h4 class="mt-4">Sprint 1</h4>
             <table class="table table-hover">
               <thead>
                 <th scope="col">User Story</th>
@@ -71,7 +71,7 @@
                 </tr>
               </tbody>
             </table>
-            <h4>Sprint 2</h4>
+            <h4 class="mt-5">Sprint 2</h4>
             <table class="table table-hover">
               <thead>
                 <th scope="col">User Story</th>
@@ -96,7 +96,7 @@
                 </tr>
               </tbody>
             </table>
-            <h4>Sprint 3</h4>
+            <h4 class="mt-5">Sprint 3</h4>
             <table class="table table-hover">
               <thead>
                 <th scope="col">User Story</th>
@@ -107,10 +107,14 @@
                   <td>Drone onderdelen bestellen m.b.t. autonoom vliegen</td>
                   <td>Gepland</td>
                 </tr>
+                <tr>
+                  <td>Drone moet kunnen hoveren</td>
+                  <td>Gepland</td>
+                </tr>
               </tbody>
             </table>
-             <table class="table table-hover">
-               <h4>Scrum bestanden</h4>
+            <h4 class="mt-5">Scrum bestanden</h4>
+            <table class="table table-hover">
                <thead>
                  <tr>
                    <th scope="col">Beschrijving</th>
@@ -127,12 +131,17 @@
                  <tr>
                    <td>Scrumbord</td>
                    <td><a href="https://trello.com/b/RHjxuKDi/drone-team">Trello</a></td>
-                   <td>Link</td>
+                   <td>URL</td>
                  </tr>
                  <tr>
                    <td>Product backlog</td>
                    <td><a href="assets/doc/ProductBacklog.pdf" target="_blank">Product Backlog</a></td>
                    <td>PDF</td>
+                 </tr>
+                 <tr>
+                   <td>Sprint 2 Overzicht</td>
+                   <td><a href="https://docs.google.com/presentation/d/1IivQUDIn3YujFi9CzJk8u_f_NHZXrm6ZXfUbLr6g4IA/edit?usp=sharing">Google Slides</a></td>
+                   <td>URL</td>
                  </tr>
                </tbody>
              </table>
@@ -232,6 +241,23 @@
                 </tr>
               </tbody>
             </table>
+          </div>
+          <div class="col-12" style="margin-top: 50px;">
+            <h2 id="media">Media:</h2>
+              <div class="row">
+              <div class="col-md-6">
+                <h3>Testvlucht 1</h3>
+                <div class="embed-responsive embed-responsive-16by9">
+                  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/MrP_dHqrT0E" allowfullscreen></iframe>
+                </div>
+              </div>
+              <div id="video2" class="col-md-6">
+                <h3>Testvlucht 2</h3>
+                <div class="embed-responsive embed-responsive-16by9">
+                  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/uFh92WgTrGw" allowfullscreen></iframe>
+                </div>
+              </div>
+            </div>
           </div>
           <div class="col-12" style="margin-top: 50px;">
             <h2 id="github">Github:</h2>
