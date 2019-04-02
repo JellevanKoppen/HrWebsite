@@ -99,11 +99,11 @@
                         <td>Onderzoek doen naar communicatie</td>
                         <td>Klaar</td>
                       </tr>
-                      <tr class="tableLate">
+                      <tr class="tableDone">
                         <td>Onderzoek doen naar person tracking</td>
                         <td>Loopt achter</td>
                       </tr>
-                      <tr class="tableDone">
+                      <tr class="tableDoing">
                         <td>Onderzoek doen naar sensoren</td>
                         <td>Klaar</td>
                       </tr>
