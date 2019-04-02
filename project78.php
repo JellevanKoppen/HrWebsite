@@ -101,15 +101,15 @@
                       </tr>
                       <tr class="tableDone">
                         <td>Onderzoek doen naar person tracking</td>
-                        <td>Loopt achter</td>
+                        <td>Klaar</td>
                       </tr>
-                      <tr class="tableDoing">
+                      <tr class="tableDone">
                         <td>Onderzoek doen naar sensoren</td>
                         <td>Klaar</td>
                       </tr>
-                      <tr class="tableLate">
+                      <tr class="tableDoing">
                         <td>Onderzoek doen naar App development</td>
-                        <td>Loopt achter</td>
+                        <td>In Bedrijf</td>
                       </tr>
                     </tbody>
                   </table>
