@@ -144,6 +144,30 @@
                   <td>Experiment Communicatie (Bluetooth Range)</td>
                   <td>Gepland</td>
                 </tr>
+                <tr>
+                  <td>Sensoren m.b.t. autonoom vliegen bestellen</td>
+                  <td>Gepland</td>
+                </tr>
+                <tr>
+                  <td>Sensoren m.b.t. telemetry communicatie bestellen</td>
+                  <td>Gepland</td>
+                </tr>
+                <tr>
+                  <td>Code schrijven voor GPS Hold</td>
+                  <td>Gepland</td>
+                </tr>
+                <tr>
+                  <td>Sensoren m.b.t. obstakel detectie bestellen</td>
+                  <td>Gepland</td>
+                </tr>
+                <tr>
+                  <td>Sensoren m.b.t. obstakel detectie monteren</td>
+                  <td>Gepland</td>
+                </tr>
+                <tr>
+                  <td>Sensoren m.b.t. obstakel detectie uitlezen</td>
+                  <td>Gepland</td>
+                </tr>
               </tbody>
             </table>
             <h4 class="mt-5">Scrum bestanden</h4>
@@ -172,7 +196,7 @@
                    <td>PDF</td>
                  </tr>
                  <tr>
-                   <td>Sprint 2 Overzicht</td>
+                   <td>Sprint 3 Overzicht</td>
                    <td><a href="https://docs.google.com/presentation/d/1IivQUDIn3YujFi9CzJk8u_f_NHZXrm6ZXfUbLr6g4IA/edit?usp=sharing">Google Slides</a></td>
                    <td>URL</td>
                  </tr>
