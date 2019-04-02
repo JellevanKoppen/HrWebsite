@@ -168,6 +168,10 @@
                   <td>Sensoren m.b.t. obstakel detectie uitlezen</td>
                   <td>Gepland</td>
                 </tr>
+                <tr>
+                  <td>Enquete doen gebruiksvriendelijkheid App</td>
+                  <td>Gepland</td>
+                </tr>
               </tbody>
             </table>
             <h4 class="mt-5">Scrum bestanden</h4>
