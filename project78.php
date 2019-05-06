@@ -107,32 +107,42 @@
                         <td>Onderzoek doen naar sensoren</td>
                         <td>Klaar</td>
                       </tr>
-                      <tr class="tableDoing">
+                      <tr class="tableDone">
                         <td>Onderzoek doen naar App development</td>
-                        <td>In Bedrijf</td>
+                        <td>Klaar</td>
                       </tr>
                     </tbody>
                   </table>
                 </div>
               </div>
             </div>
-            <h4 class="mt-5">Sprint 3</h4>
-            <table class="table table-hover">
-              <thead>
-                <th scope="col">User Story</th>
-                <th scope="col">Status </th>
-              </thead>
-              <tbody>
-                <tr class="tableDoing">
-                  <td>Drone onderdelen bestellen m.b.t. autonoom vliegen</td>
-                  <td>In bedrijf</td>
-                </tr>
-                <tr class="tableDone">
-                  <td>Drone moet kunnen hoveren</td>
-                  <td>Klaar</td>
-                </tr>
-              </tbody>
-            </table>
+            <div class="panel-group">
+              <div class="panel panel-default">
+                <div style="height: 45px;">
+                  <h4 class="sprintButton">
+                    <div data-toggle="collapse" href="#sprint3">Sprint 3 <i class="fas fa-angle-down" style="margin: 0 5px;"></i></div>
+                  </h4>
+                </div>
+                <div id="sprint3" class="panel-collapse collapse" style="padding-top: 5px;">
+                  <table class="table table-hover">
+                    <thead>
+                      <th scope="col">User Story</th>
+                      <th scope="col">Status </th>
+                    </thead>
+                    <tbody>
+                      <tr class="tableDone">
+                        <td>Drone onderdelen bestellen m.b.t. autonoom vliegen</td>
+                        <td>Klaar</td>
+                      </tr>
+                      <tr class="tableDone">
+                        <td>Drone moet kunnen hoveren</td>
+                        <td>Klaar</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
             <h4 class="mt-5">Sprint 4</h4>
             <table class="table table-hover">
               <thead>
@@ -140,40 +150,68 @@
                 <th scope="col">Status </th>
               </thead>
               <tbody>
-                <tr>
+                <tr class="tableDone">
                   <td>Experiment Communicatie (Bluetooth Range)</td>
-                  <td>Gepland</td>
+                  <td>Klaar</td>
                 </tr>
-                <tr>
+                <tr class="tableDone">
                   <td>Sensoren m.b.t. autonoom vliegen bestellen</td>
-                  <td>Gepland</td>
+                  <td>Klaar</td>
                 </tr>
-                <tr>
+                <tr class="tableDone">
                   <td>Sensoren m.b.t. telemetry communicatie bestellen</td>
-                  <td>Gepland</td>
+                  <td>Klaar</td>
                 </tr>
-                <tr>
+                <tr class="tableDoing">
                   <td>Code schrijven voor GPS Hold</td>
-                  <td>Gepland</td>
+                  <td>In Bedrijf</td>
                 </tr>
-                <tr>
+                <tr class="tableDone">
                   <td>Sensoren m.b.t. obstakel detectie bestellen</td>
-                  <td>Gepland</td>
+                  <td>Klaar</td>
                 </tr>
-                <tr>
+                <tr class="tableDoing">
                   <td>Sensoren m.b.t. obstakel detectie monteren</td>
-                  <td>Gepland</td>
+                  <td>In Bedrijf</td>
                 </tr>
-                <tr>
+                <tr class="tableDone">
                   <td>Sensoren m.b.t. obstakel detectie uitlezen</td>
+                  <td>Klaar</td>
+                </tr>
+                <tr class="tableDone">
+                  <td>Enquete doen gebruiksvriendelijkheid App</td>
+                  <td>Klaar</td>
+                </tr>
+              </tbody>
+            </table>
+            <div id="currentSprint">
+            <div id="currentSprintText">Huidige Sprint</div>
+            <h4 class="mt-5">Sprint 5</h4>
+            <table class="table table-hover">
+              <thead>
+                <th scope="col">User Story</th>
+                <th scope="col">Status </th>
+              </thead>
+              <tbody>
+                <tr class="tableDoing">
+                  <td>Code schrijven voor GPS Hold (vervolg)</td>
+                  <td>In Bedrijf</td>
+                </tr>
+                <tr class="tableDoing">
+                  <td>Sensoren m.b.t. obstakel detectie monteren (vervolg)</td>
+                  <td>In Bedrijf</td>
+                </tr>
+                <tr class="">
+                  <td>Drone moet kunnen hoveren op één plek (m.b.v. GPS Hold)</td>
                   <td>Gepland</td>
                 </tr>
-                <tr>
-                  <td>Enquete doen gebruiksvriendelijkheid App</td>
+                <tr class="">
+                  <td>Drone en Applicatie moeten kunnen communiceren</td>
                   <td>Gepland</td>
                 </tr>
               </tbody>
             </table>
+          </div>
             <h4 class="mt-5">Scrum bestanden</h4>
             <table class="table table-hover">
                <thead>
@@ -185,8 +223,13 @@
                </thead>
                <tbody>
                  <tr>
-                   <td>Contacttijden</td>
-                   <td><a href="assets/doc/Project78IndelingOP3.pdf" target="_blank">Project78 Indeling</a></td>
+                   <td>Contacttijden OP3</td>
+                   <td><a href="assets/doc/Project78IndelingOP3.pdf" target="_blank">Project78 OP3 Indeling</a></td>
+                   <td>PDF</td>
+                 </tr>
+                 <tr>
+                   <td>Contacttijden OP4</td>
+                   <td><a href="assets/doc/Project78IndelingOP4.pdf" target="_blank">Project78 OP4 Indeling</a></td>
                    <td>PDF</td>
                  </tr>
                  <tr>

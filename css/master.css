@@ -35,6 +35,20 @@ html,body{
   margin-left: -10px;
 }
 
+#currentSprint{
+  border: 3px dashed #2196F3;
+  padding: 5px;
+}
+
+#currentSprintText{
+  float: right;
+  color: #2196F3;
+  border: 3px solid #2196F3;
+  padding: 5px;
+  border-radius: 3px;
+  font-weight: bold;
+}
+
 .animatetop{
   animation-name: top;
   animation-duration: 0.75s;
