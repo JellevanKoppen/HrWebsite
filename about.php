@@ -45,15 +45,15 @@
               <div class="col-8 headerName">
                 <h3>Jelle van Koppen <br /><small>Website Beheerder, Software Expert</small></h3>
                 <div class="personalSocials">
-                  <a class="fb-ic">
+                  <a class="fb-ic" href="https://www.facebook.com/jelle.koppen">
                     <i class="fab fa-facebook fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                   </a>
                   <!-- Google-->
-                  <a class="gplus-ic">
-                    <i class="fab fa-google fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                  <a class="gplus-ic" href="assets\doc\CV_Jelle_van_Koppen_0944862.pdf">
+                    <i class="fas fa-file fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                   </a>
                   <!--Linkedin -->
-                  <a class="li-ic">
+                  <a class="li-ic" href="https://www.linkedin.com/in/jelle-van-koppen-390148151/">
                     <i class="fab fa-linkedin fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                   </a>
                   <!--Website-->
@@ -64,7 +64,10 @@
               </div>
               <div class="col-12">
                 <br />
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pellentesque orci risus, sit amet laoreet felis cursus in. Duis elementum gravida quam, vestibulum elementum sapien facilisis vel. Vestibulum velit neque, blandit eget tincidunt ut, pellentesque quis purus. Sed ac sodales ipsum. Duis pulvinar lorem nunc, vitae tempor enim porta nec. Quisque ut metus ipsum. Nunc viverra diam eget lorem ullamcorper fringilla. Fusce vel molestie felis. Maecenas non ipsum est.</p>
+                <p>Ik ben een enthousiasteling als het aankomt op techniek. Het liefst wil ik hier zoveel mogelijk over leren
+en weten. Programmeren is dan ook een hobby van mij. Ik zit op dit moment in het tweede jaar van
+Technische Informatica op de Hogeschool Rotterdam. Ik heb mijn propedeuse weten te behalen en
+heb nog steeds veel plezier in het volgen van de opleiding.</p>
               </div>
             </div>
           </div>
@@ -76,12 +79,12 @@
               <div class="col-8 headerName">
                 <h3>Rick Kloppers <br /><small>Contactpersoon</small></h3>
                 <div class="personalSocials">
-                  <a class="fb-ic">
+                  <a class="fb-ic" href="https://www.facebook.com/rick.kloppers">
                     <i class="fab fa-facebook fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                   </a>
-                  <!-- Google-->
-                  <a class="gplus-ic">
-                    <i class="fab fa-google fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                  <!-- Instagram-->
+                  <a class="gplus-ic" href="https://www.instagram.com/rickkie941/">
+                    <i class="fab fa-instagram fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                   </a>
                   <!--Linkedin -->
                   <a class="li-ic">
@@ -95,7 +98,7 @@
               </div>
               <div class="col-12">
                 <br />
-                <p>Hoi, Ik ben Rick Kloppers!</div>
+                <p>"Hoi, Ik ben Rick Kloppers!"</div>
               </div>
             </div>
             <div class="lijn d-none d-md-block"></div>
@@ -126,7 +129,7 @@
                 </div>
                 <div class="col-12">
                   <br />
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pellentesque orci risus, sit amet laoreet felis cursus in. Duis elementum gravida quam, vestibulum elementum sapien facilisis vel. Vestibulum velit neque, blandit eget tincidunt ut, pellentesque quis purus. Sed ac sodales ipsum. Duis pulvinar lorem nunc, vitae tempor enim porta nec. Quisque ut metus ipsum. Nunc viverra diam eget lorem ullamcorper fringilla. Fusce vel molestie felis. Maecenas non ipsum est.</p>
+                  <p></p>
                 </div>
               </div>
             </div>
@@ -138,7 +141,7 @@
                 <div class="col-8 headerName">
                   <h3>Jeffrey Brons <br /><small>Designer</small></h3>
                   <div class="personalSocials">
-                    <a class="fb-ic">
+                    <a class="fb-ic" href="https://www.facebook.com/jeffrey.brons.5">
                       <i class="fab fa-facebook fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                     </a>
                     <!-- Google-->
@@ -157,7 +160,7 @@
                 </div>
                 <div class="col-12">
                   <br />
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pellentesque orci risus, sit amet laoreet felis cursus in. Duis elementum gravida quam, vestibulum elementum sapien facilisis vel. Vestibulum velit neque, blandit eget tincidunt ut, pellentesque quis purus. Sed ac sodales ipsum. Duis pulvinar lorem nunc, vitae tempor enim porta nec. Quisque ut metus ipsum. Nunc viverra diam eget lorem ullamcorper fringilla. Fusce vel molestie felis. Maecenas non ipsum est.</p>
+                  <p></p>
                 </div>
               </div>
             </div>
@@ -171,15 +174,15 @@
                 <div class="col-8 headerName">
                   <h3>Jelle van Koppen <br /><small>Website Beheerder</small></h3>
                   <div class="personalSocials">
-                    <a class="fb-ic">
+                    <a class="fb-ic" href="https://www.facebook.com/jelle.koppen">
                       <i class="fab fa-facebook fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                     </a>
                     <!-- Google-->
-                    <a class="gplus-ic">
-                      <i class="fab fa-google fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                    <a class="gplus-ic" href="assets/doc/CV_Jelle_van_Koppen_0944862.pdf">
+                      <i class="fas fa-file fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                     </a>
                     <!--Linkedin -->
-                    <a class="li-ic">
+                    <a class="li-ic" href="https://www.linkedin.com/in/jelle-van-koppen-390148151/">
                       <i class="fab fa-linkedin fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                     </a>
                     <!--Website-->
@@ -190,7 +193,10 @@
                 </div>
                 <div class="col-12">
                   <br />
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pellentesque orci risus, sit amet laoreet felis cursus in. Duis elementum gravida quam, vestibulum elementum sapien facilisis vel. Vestibulum velit neque, blandit eget tincidunt ut, pellentesque quis purus. Sed ac sodales ipsum. Duis pulvinar lorem nunc, vitae tempor enim porta nec. Quisque ut metus ipsum. Nunc viverra diam eget lorem ullamcorper fringilla. Fusce vel molestie felis. Maecenas non ipsum est.</p>
+                  <p>Ik ben een enthousiasteling als het aankomt op techniek. Het liefst wil ik hier zoveel mogelijk over leren
+en weten. Programmeren is dan ook een hobby van mij. Ik zit op dit moment in het tweede jaar van
+Technische Informatica op de Hogeschool Rotterdam. Ik heb mijn propedeuse weten te behalen en
+heb nog steeds veel plezier in het volgen van de opleiding.</p>
                 </div>
               </div>
             </div>
@@ -202,12 +208,12 @@
                 <div class="col-8 headerName">
                   <h3>Rick Kloppers <br /><small>Contactpersoon</small></h3>
                   <div class="personalSocials">
-                    <a class="fb-ic">
+                    <a class="fb-ic" href="https://www.facebook.com/rick.kloppers">
                       <i class="fab fa-facebook fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                     </a>
-                    <!-- Google-->
-                    <a class="gplus-ic">
-                      <i class="fab fa-google fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                    <!-- Instagram -->
+                    <a class="gplus-ic" href="https://www.instagram.com/rickkie941/">
+                      <i class="fab fa-instagram fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                     </a>
                     <!--Linkedin -->
                     <a class="li-ic">
@@ -221,7 +227,7 @@
                 </div>
                 <div class="col-12">
                   <br />
-                  <p>Hoi, Ik ben Rick Kloppers!</div>
+                  <p>"Hoi, Ik ben Rick Kloppers!"</div>
                 </div>
               </div>
               <div class="lijn d-none d-md-block"></div>
@@ -252,7 +258,7 @@
                   </div>
                   <div class="col-12">
                     <br />
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pellentesque orci risus, sit amet laoreet felis cursus in. Duis elementum gravida quam, vestibulum elementum sapien facilisis vel. Vestibulum velit neque, blandit eget tincidunt ut, pellentesque quis purus. Sed ac sodales ipsum. Duis pulvinar lorem nunc, vitae tempor enim porta nec. Quisque ut metus ipsum. Nunc viverra diam eget lorem ullamcorper fringilla. Fusce vel molestie felis. Maecenas non ipsum est.</p>
+                    <p></p>
                   </div>
                 </div>
               </div>
@@ -283,7 +289,7 @@
                   </div>
                   <div class="col-12">
                     <br />
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pellentesque orci risus, sit amet laoreet felis cursus in. Duis elementum gravida quam, vestibulum elementum sapien facilisis vel. Vestibulum velit neque, blandit eget tincidunt ut, pellentesque quis purus. Sed ac sodales ipsum. Duis pulvinar lorem nunc, vitae tempor enim porta nec. Quisque ut metus ipsum. Nunc viverra diam eget lorem ullamcorper fringilla. Fusce vel molestie felis. Maecenas non ipsum est.</p>
+                    <p></p>
                   </div>
                 </div>
               </div>
