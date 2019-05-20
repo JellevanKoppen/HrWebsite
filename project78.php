@@ -143,49 +143,57 @@
                 </div>
               </div>
             </div>
-            <h4 class="mt-5">Sprint 4</h4>
-            <table class="table table-hover">
-              <thead>
-                <th scope="col">User Story</th>
-                <th scope="col">Status </th>
-              </thead>
-              <tbody>
-                <tr class="tableDone">
-                  <td>Experiment Communicatie (Bluetooth Range)</td>
-                  <td>Klaar</td>
-                </tr>
-                <tr class="tableDone">
-                  <td>Sensoren m.b.t. autonoom vliegen bestellen</td>
-                  <td>Klaar</td>
-                </tr>
-                <tr class="tableDone">
-                  <td>Sensoren m.b.t. telemetry communicatie bestellen</td>
-                  <td>Klaar</td>
-                </tr>
-                <tr class="tableDoing">
-                  <td>Code schrijven voor GPS Hold</td>
-                  <td>In Bedrijf</td>
-                </tr>
-                <tr class="tableDone">
-                  <td>Sensoren m.b.t. obstakel detectie bestellen</td>
-                  <td>Klaar</td>
-                </tr>
-                <tr class="tableDoing">
-                  <td>Sensoren m.b.t. obstakel detectie monteren</td>
-                  <td>In Bedrijf</td>
-                </tr>
-                <tr class="tableDone">
-                  <td>Sensoren m.b.t. obstakel detectie uitlezen</td>
-                  <td>Klaar</td>
-                </tr>
-                <tr class="tableDone">
-                  <td>Enquete doen gebruiksvriendelijkheid App</td>
-                  <td>Klaar</td>
-                </tr>
-              </tbody>
-            </table>
-            <div id="currentSprint">
-            <div id="currentSprintText">Huidige Sprint</div>
+            <div class="panel-group">
+              <div class="panel panel-default">
+                <div style="height: 45px;">
+                  <h4 class="sprintButton">
+                    <div data-toggle="collapse" href="#sprint4">Sprint 4 <i class="fas fa-angle-down" style="margin: 0 5px;"></i></div>
+                  </h4>
+                </div>
+                <div id="sprint4" class="panel-collapse collapse" style="padding-top: 5px;">
+                  <table class="table table-hover">
+                    <thead>
+                      <th scope="col">User Story</th>
+                      <th scope="col">Status </th>
+                    </thead>
+                    <tbody>
+                      <tr class="tableDone">
+                        <td>Experiment Communicatie (Bluetooth Range)</td>
+                        <td>Klaar</td>
+                      </tr>
+                      <tr class="tableDone">
+                        <td>Sensoren m.b.t. autonoom vliegen bestellen</td>
+                        <td>Klaar</td>
+                      </tr>
+                      <tr class="tableDone">
+                        <td>Sensoren m.b.t. telemetry communicatie bestellen</td>
+                        <td>Klaar</td>
+                      </tr>
+                      <tr class="tableDone">
+                        <td>Code schrijven voor GPS Hold</td>
+                        <td>Klaar</td>
+                      </tr>
+                      <tr class="tableDone">
+                        <td>Sensoren m.b.t. obstakel detectie bestellen</td>
+                        <td>Klaar</td>
+                      </tr>
+                      <tr class="tableDone">
+                        <td>Sensoren m.b.t. obstakel detectie monteren</td>
+                        <td>Klaar</td>
+                      </tr>
+                      <tr class="tableDone">
+                        <td>Sensoren m.b.t. obstakel detectie uitlezen</td>
+                        <td>Klaar</td>
+                      </tr>
+                      <tr class="tableDone">
+                        <td>Enquete doen gebruiksvriendelijkheid App</td>
+                        <td>Klaar</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
             <h4 class="mt-5">Sprint 5</h4>
             <table class="table table-hover">
               <thead>
@@ -193,25 +201,52 @@
                 <th scope="col">Status </th>
               </thead>
               <tbody>
-                <tr class="tableDoing">
+                <tr class="tableDone">
                   <td>Code schrijven voor GPS Hold (vervolg)</td>
-                  <td>In Bedrijf</td>
+                  <td>Klaar</td>
                 </tr>
-                <tr class="tableDoing">
+                <tr class="tableDone">
                   <td>Sensoren m.b.t. obstakel detectie monteren (vervolg)</td>
-                  <td>In Bedrijf</td>
+                  <td>Klaar</td>
                 </tr>
-                <tr class="">
+                <tr class="tableLate">
                   <td>Drone moet kunnen hoveren op één plek (m.b.v. GPS Hold)</td>
-                  <td>Gepland</td>
+                  <td>Vertraagd</td>
                 </tr>
-                <tr class="">
+                <tr class="tableDone">
                   <td>Drone en Applicatie moeten kunnen communiceren</td>
                   <td>Gepland</td>
                 </tr>
               </tbody>
             </table>
-          </div>
+            <div id="currentSprint">
+              <div id="currentSprintText">Huidige Sprint</div>
+              <h4 class="mt-5">Sprint 6</h4>
+              <table class="table table-hover">
+                <thead>
+                  <th scope="col">User Story</th>
+                  <th scope="col">Status </th>
+                </thead>
+                <tbody>
+                  <tr class="tableDoing">
+                    <td>Drone moet kunnen hoveren op één plek (m.b.v. GPS Hold)</td>
+                    <td>In bedrijf</td>
+                  </tr>
+                  <tr class="">
+                    <td>Drone moet van punt A naar punt B kunnen vliegen (m.b.v. GPS)</td>
+                    <td>Gepland</td>
+                  </tr>
+                  <tr>
+                    <td>App heeft een functie om drone een routen kunnen laten vliegen</td>
+                    <td>Gepland</td>
+                  </tr>
+                  <tr>
+                    <td>Obstakel detectie wordt geïmplementeerd</td>
+                    <td>Gepland</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
             <h4 class="mt-5">Scrum bestanden</h4>
             <table class="table table-hover">
                <thead>
@@ -243,7 +278,7 @@
                    <td>PDF</td>
                  </tr>
                  <tr>
-                   <td>Sprint 3 Overzicht</td>
+                   <td>Sprint 5 Overzicht</td>
                    <td><a href="https://docs.google.com/presentation/d/1IivQUDIn3YujFi9CzJk8u_f_NHZXrm6ZXfUbLr6g4IA/edit?usp=sharing">Google Slides</a></td>
                    <td>URL</td>
                  </tr>

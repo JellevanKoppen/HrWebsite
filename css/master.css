@@ -40,6 +40,10 @@ html,body{
   padding: 5px;
 }
 
+#currentSprint .table{
+  margin-bottom: 0;
+}
+
 #currentSprintText{
   float: right;
   color: #2196F3;
