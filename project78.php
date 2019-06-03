@@ -242,7 +242,7 @@
                   </tr>
                   <tr>
                     <td>Obstakel detectie wordt geïmplementeerd</td>
-                    <td>Gepland</td>
+                    <td>In Bedrijf</td>
                   </tr>
                 </tbody>
               </table>
