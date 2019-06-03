@@ -240,7 +240,7 @@
                     <td>App heeft een functie om drone een routen kunnen laten vliegen</td>
                     <td>Gepland</td>
                   </tr>
-                  <tr>
+                  <tr class="tableDoing">
                     <td>Obstakel detectie wordt geïmplementeerd</td>
                     <td>In Bedrijf</td>
                   </tr>
