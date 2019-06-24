@@ -55,7 +55,11 @@
       <div class="container">
         <div class="row">
           <div class="col-12 my-4 mb-5">
-            <h2  id="scrum">Scrum:</h2>
+            <div class="apkDiv">
+            <h2>Drone Applicatie (Android Only)</h2>
+              <a href="assets/apk/AFD.apk"><button type="button" class="btn btn-primary">Download .apk</button></a>
+            </div>
+            <h2 class="my-4" id="scrum">Scrum:</h2>
             <p>Voor dit project is er gebruik gemaakt van de werkmethode scrum. Het scrumbord wat wij gebruiken staat op trello.
             Alle bestanden met betrekking tot dit bord zijn te vinden op deze website.</p>
             <div class="panel-group">
